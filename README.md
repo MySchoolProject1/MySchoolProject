@@ -1,2 +1,2 @@
 # MySchoolProject
-Proj Tech
+Proj Website
